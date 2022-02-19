@@ -33,6 +33,5 @@ Creacion del input en html
     name='name'
     value={name}
     onChange={handleInputChange} />
-
 <input>
 ```
